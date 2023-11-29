@@ -1,0 +1,12 @@
+body {
+    background:#8dd3f0;
+    overflow: scroll;
+}
+
+.bs{
+    border-style:groove;
+    border-color: white;
+    border-width: 50px;
+    
+}
+
